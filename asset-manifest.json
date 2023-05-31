@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordMania/static/css/main.e80c3317.css",
+    "main.js": "/WordMania/static/js/main.1c5ddcbc.js",
+    "static/js/787.41a206eb.chunk.js": "/WordMania/static/js/787.41a206eb.chunk.js",
+    "index.html": "/WordMania/index.html",
+    "main.e80c3317.css.map": "/WordMania/static/css/main.e80c3317.css.map",
+    "main.1c5ddcbc.js.map": "/WordMania/static/js/main.1c5ddcbc.js.map",
+    "787.41a206eb.chunk.js.map": "/WordMania/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e80c3317.css",
+    "static/js/main.1c5ddcbc.js"
+  ]
+}
